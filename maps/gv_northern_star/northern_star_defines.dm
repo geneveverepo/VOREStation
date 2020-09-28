@@ -28,8 +28,17 @@
 	lobby_icon = 'icons/misc/title.dmi'
 	lobby_screens = list("mockingjay00")
 
+	use_overmap = TRUE
+	overmap_z = Z_LEVEL_MISC
+	overmap_size = 35
+	overmap_event_areas = 34
+	usable_email_tlds = list("Northern.nt")
 
 	zlevel_datum_type = /datum/map_z_level/northern_star
+
+	holomap_smoosh = list(list(
+		Z_LEVEL_MAIN_NORTHERN_STAR,
+		Z_LEVEL_MINING_NORTHERN_STAR))
 
 	station_name  = "NCS Northern Star"
 	station_short = "Northern Star"
