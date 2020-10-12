@@ -15,7 +15,7 @@
 	#include "tether_turfs.dm"
 //	#include "tether_things.dm"
 	#include "tether_phoronlock.dm"
-//	#include "tether_areas.dm"
+	#include "tether_areas.dm"
 //	#include "tether_shuttle_defs.dm"
 //	#include "tether_shuttles.dm"
 	#include "northern_star_telecomms.dm"
